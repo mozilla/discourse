@@ -1,2 +1,2 @@
 # discourse
-Issues repo for [Discourse](https://wiki.mozilla.org/Community_Ops/Discourse) roadmap within Mozilla
+Issues repo for [Discourse](https://wiki.mozilla.org/ParticipationSystems/Discourse) roadmap within Mozilla
